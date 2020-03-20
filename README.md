@@ -37,8 +37,8 @@ Upload media
 
 User panel:
 
-Leave a comment on a post
-![Leave a comment on post](https://user-images.githubusercontent.com/52626296/77158048-faf4d780-6abb-11ea-9dc1-f3d3be1e7b1e.jpg)
-
 Posts on the home page
 ![Posts on home page](https://user-images.githubusercontent.com/52626296/77158096-0ea03e00-6abc-11ea-84ac-a952e055cb08.jpg)
+
+Leave a comment on a post
+![Leave a comment on post](https://user-images.githubusercontent.com/52626296/77158048-faf4d780-6abb-11ea-9dc1-f3d3be1e7b1e.jpg)
