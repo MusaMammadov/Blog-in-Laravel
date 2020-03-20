@@ -1,5 +1,5 @@
 # Blog in Laravel
-I have created simple blog when I was learning Laravel. This site contains both of Admin and User panel. FOllowing are particular screenshots of functionalities:
+I have created simple blog when I was learning Laravel. This site contains both of Admin and User panel. Following are particular screenshots of functionalities:
 
 Login page
 ![Login page](https://user-images.githubusercontent.com/52626296/77156937-d8fa5580-6ab9-11ea-8a53-d52d57d3ec17.jpg)
